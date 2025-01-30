@@ -4,6 +4,8 @@
 
 Each challenge is a stand-alone, self-guided tutorial that includes a `README.md` file to walk you through the content. The first challenge is to complete [Access_Frontier_and_Clone_Repo](Access_Frontier_and_Clone_Repo), which will show you how to clone this repository.
 
+<Wait on first lesson for account setup>
+
 To complete the requirements for your certificate,
 pick any 6 of the challenges in any of the sections below. (High School students need only 3). For all challenges other than the first one, which we will do together, you will turn in your work by entering the path to one of the challenge's output files or code files in this [google sheet](https://bit.ly/3Ua4shu/) as directed by your instructor. For the AI_Basics challenge, simply note that you did it in the spreadsheet. 
 
