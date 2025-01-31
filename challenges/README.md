@@ -2,7 +2,7 @@
 
 # Challenges
 
-Each challenge is a stand-alone, self-guided tutorial that includes a `README.md` file to walk you through the content. The first challenge is to complete [Access_Frontier_and_Clone_Repo](Access_Frontier_and_Clone_Repo), which will show you how to clone this repository.
+Each challenge is a stand-alone, self-guided tutorial that includes a `README.md` file to walk you through the content. The first challenge is to complete [Access_Wulver_and_Clone_Repo](Access_Frontier_and_Clone_Repo), which will show you how to clone this repository.
 
 <Wait on first lesson for account setup>
 
@@ -11,7 +11,7 @@ pick any 6 of the challenges in any of the sections below. (High School students
 
 Getting started: 
 
-1. [Access_Frontier_and_Clone_Repo](Access_Frontier_and_Clone_Repo) 
+1. [Access_Wulver_and_Clone_Repo](Access_Wulver_and_Clone_Repo) 
 2. [Basic_Unix_Vim](Basic_Unix_Vim) (Only do this one if you have no experience with Unix or a text editor) 
 3. [Basic_Workflow](Basic_Workflow)
 4. [Srun_Job_Launcher](Srun_Job_Launcher)

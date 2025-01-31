@@ -1,15 +1,15 @@
-# Access Frontier and Clone Repository
+# Access Wulver and Clone Repository
 
-Follow the instructions below to login to OLCF's Frontier compute system and grab a copy of the code we'll be using.
+Follow the instructions below to login to the Wulver compute system and grab a copy of the code we'll be using.
 
 <hr>
 
 &nbsp;
 
-## Get started by logging into Frontier using SSH. 
-Use the userid and passcode that you setup for Frontier to login. 
+## Get started by logging into Wulver using SSH. 
+Make sure you are connected to NJITsecure. Replace $UCID with your ucid, and use passcode that you setup for Wulver to login. 
 ```bash
-ssh userid@frontier.olcf.ornl.gov
+ssh $UCID@wulver.njit.edu
 ```
 &nbsp;
 
@@ -28,12 +28,12 @@ $ git clone https://github.com/olcf/hands-on-with-frontier.git
 Check that you can list the files in your current directory to see the repository directory: 
 ```bash
 $ ls
-hands-on-with-frontier
+hands-on-with-wulver
 ```
 
 Finally, move into that directory:
 ```bash
-$ cd hands-on-with-frontier
+$ cd hands-on-with-wulver
 ```
 
 &nbsp;
