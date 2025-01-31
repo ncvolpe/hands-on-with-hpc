@@ -127,7 +127,7 @@ Try to copy the file `text_file.txt` to the newly created `mydirectory` director
 
 Remember that specifying the full path for the file or directory will also work.
 ```bash
-[UCID@login01 Basic_Unix_Vim]$ cp /ccs/home/<userid>/hands-on-with-frontier/challenges/Basic_Unix_Vim/text_file.txt /ccs/home/<userid>/hands-on-with-frontier/challenges/Basic_Unix_Vim/mydirectory
+[UCID@login01 Basic_Unix_Vim]$ cp /ccs/home/<userid>/hands-on-with-wulver/challenges/Basic_Unix_Vim/text_file.txt /ccs/home/<UCID>/hands-on-with-wulver/challenges/Basic_Unix_Vim/mydirectory
 ```
 
 You can check the contents of a directory with `ls` without first using `cd` to go to that directory, by using `ls` followed by the path or directory name.
