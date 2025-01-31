@@ -1,4 +1,4 @@
-# Basic Workflow to Run a Job on Frontier
+# Basic Workflow to Run a Job on Wulver
 
 The basic workflow for running programs on HPC systems is 1) set up your programming environment - i.e., the software you need, 2) compile the code - i.e., turn the human-readable programming language into machine code, 3) request access to one or more compute nodes, and 4) launch your executable on the compute node(s) you were allocated. In this challenge, you will perform these basic steps to see how it works.
 
@@ -17,10 +17,10 @@ for(int i=0; i<N; i++)
 First, make sure you are sitting in the Basic_Workflow directory. You can change to the Basic_Workflow directory using the `cd` command with the path to the directory, like so:
 
 ```bash
-[userid@login1.frontier ~]$ cd ~/hands-on-with-frontier/challenges/Basic_Workflow
+[userid@login1.frontier ~]$ cd ~/hands-on-with-wulver/challenges/Basic_Workflow
 ```
 
-Many software packages and scientific libraries are pre-installed on Frontier for users to take advantage of. Several packages are loaded by default when a user logs in to the system and additional packages can be loaded using environment modules. To see which packages are currently loaded in your environment, run the following command:
+Many software packages and scientific libraries are pre-installed on Wulver for users to take advantage of. Several packages are loaded by default when a user logs in to the system and additional packages can be loaded using environment modules. To see which packages are currently loaded in your environment, run the following command:
 
 ```
 $ module list
@@ -39,7 +39,7 @@ $ module load PrgEnv-amd
 Now that you've set up your programming environment for the code used in this challenge, you can go ahead and compile the code. First, make sure you're in the `Basic_Workflow/` directory:
 
 ```
-$ cd ~/hands-on-with-frontier/challenges/Basic_Workflow
+$ cd ~/hands-on-with-wulver/challenges/Basic_Workflow
 ```
 
 > NOTE: The path above assumes you cloned the repo in your `/ccs/home/username` directory.
